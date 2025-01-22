@@ -1,0 +1,856 @@
+#EXTINF:-1,PT: ----- PORTUGAL -----
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57457
+#EXTINF:-1,PT: RTP 2
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57458
+#EXTINF:-1,PT: RTP 3
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57459
+#EXTINF:-1,PT: RTP ACORES
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57460
+#EXTINF:-1,PT: RTP MADEIRA
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57461
+#EXTINF:-1,PT: RTP MEMORIA
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57462
+#EXTINF:-1,PT: SIC
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57463
+#EXTINF:-1,PT: SIC K
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57464
+#EXTINF:-1,PT: SIC NOTICIAS
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57465
+#EXTINF:-1,PT: SIC RADICAL
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57466
+#EXTINF:-1,PT: SIC MULHER
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57467
+#EXTINF:-1,PT: SIC CARAS
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57468
+#EXTINF:-1,PT: TVI
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57469
+#EXTINF:-1,PT: CNN PORTUGAL
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57470
+#EXTINF:-1,PT: TV RECORD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57471
+#EXTINF:-1,PT: GLOBO PORTUGAL
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57472
+#EXTINF:-1,PT: GLOBO NOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57473
+#EXTINF:-1,PT: FOX CRIME
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57474
+#EXTINF:-1,PT: FOX NEWS
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57475
+#EXTINF:-1,PT: TVI FICÇAO
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57476
+#EXTINF:-1,PT: AMC
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57477
+#EXTINF:-1,PT: CANAL Q
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57478
+#EXTINF:-1,PT: CMTV
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57479
+#EXTINF:-1,PT: TVI REALITY
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57480
+#EXTINF:-1,PT: ID INVESTIGATION DISCOVERY
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57481
+#EXTINF:-1,PT: CBS REALITY
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57482
+#EXTINF:-1,PT: E!
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57483
+#EXTINF:-1,PT: CANAL PANDA
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57484
+#EXTINF:-1,PT: DISNEY JUNIOR
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57485
+#EXTINF:-1,PT: DISNEY CHANNEL
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57486
+#EXTINF:-1,PT: CARTOON NETWORK
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57487
+#EXTINF:-1,PT: NAT GEO WILD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57488
+#EXTINF:-1,PT: DISCOVERY CHANNEL
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57489
+#EXTINF:-1,PT: CRIME + INVESTIGATION TV
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57490
+#EXTINF:-1,PT: HISTORIA
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57491
+#EXTINF:-1,PT: MOTORVISION
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57493
+#EXTINF:-1,PT: RTP 1  LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72875
+#EXTINF:-1,PT: RTP 1 HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72876
+#EXTINF:-1,PT: RTP 1 HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72877
+#EXTINF:-1,PT: RTP 1 FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72878
+#EXTINF:-1,PT: RTP 1 FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72879
+#EXTINF:-1,PT: RTP INTERNACIONAL
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72880
+#EXTINF:-1,PT: RTP 2
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72881
+#EXTINF:-1,PT: RTP 2 HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72882
+#EXTINF:-1,PT: RTP 2 HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72883
+#EXTINF:-1,PT: RTP 2 FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72884
+#EXTINF:-1,PT: SIC LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72885
+#EXTINF:-1,PT: SIC
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72886
+#EXTINF:-1,PT: SIC HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72887
+#EXTINF:-1,PT: SIC HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72888
+#EXTINF:-1,PT: SIC FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72889
+#EXTINF:-1,PT: SIC FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72890
+#EXTINF:-1,PT: TVI  LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72891
+#EXTINF:-1,PT: TVI
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72892
+#EXTINF:-1,PT: TVI HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72893
+#EXTINF:-1,PT: TVI HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72894
+#EXTINF:-1,PT: TVI FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72895
+#EXTINF:-1,PT: TVI FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72896
+#EXTINF:-1,PT: TVI INTERNACIONAL
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72897
+#EXTINF:-1,PT: RTP MEMÓRIA
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72898
+#EXTINF:-1,PT: RTP 3 LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72899
+#EXTINF:-1,PT: RTP 3
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72900
+#EXTINF:-1,PT: SIC NOTICIAS LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72901
+#EXTINF:-1,PT: SIC NOTICIAS
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72902
+#EXTINF:-1,PT: SIC NOTICIAS FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72903
+#EXTINF:-1,PT: SIC NOTICIAS HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72904
+#EXTINF:-1,PT: CNN PORTUGAL LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72905
+#EXTINF:-1,PT: CNN PORTUGAL
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72906
+#EXTINF:-1,PT: CNN PORTUGAL FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72907
+#EXTINF:-1,PT: CNN PORTUGAL HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72908
+#EXTINF:-1,PT: CMTV LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72909
+#EXTINF:-1,PT: CMTV
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72910
+#EXTINF:-1,PT: CMTV HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72911
+#EXTINF:-1,PT: CMTV HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72912
+#EXTINF:-1,PT: CMTV FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72913
+#EXTINF:-1,PT: PORTO CANAL
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72914
+#EXTINF:-1,PT: PORTO CANAL HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72915
+#EXTINF:-1,PT: SIC CARAS
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72916
+#EXTINF:-1,PT: SIC CARAS HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72917
+#EXTINF:-1,PT: SIC CARAS HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72918
+#EXTINF:-1,PT: CANAL Q
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72919
+#EXTINF:-1,PT: ZAP VIVA LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72920
+#EXTINF:-1,PT: ZAP VIVA HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72921
+#EXTINF:-1,PT: ZAP VIVA FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72922
+#EXTINF:-1,PT: TVI FICCAO
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72923
+#EXTINF:-1,PT: TVI FICCAO HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72924
+#EXTINF:-1,PT: TVI FICCAO HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72925
+#EXTINF:-1,PT: TVI REALITY
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72926
+#EXTINF:-1,PT: TVI Reality HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72927
+#EXTINF:-1,PT: TVI REALITY MOSAICO
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72928
+#EXTINF:-1,PT: TVI REALITY  CAM1
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72929
+#EXTINF:-1,PT: TVI REALITY CAM2
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72930
+#EXTINF:-1,PT: TVI REALITY CAM3
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72931
+#EXTINF:-1,PT: RTP Africa
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72932
+#EXTINF:-1,PT: RTP MADEIRA
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72933
+#EXTINF:-1,PT: RTP AÇORES
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72934
+#EXTINF:-1,PT: SIC MULHER LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72935
+#EXTINF:-1,PT: SIC MULHER
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72936
+#EXTINF:-1,PT: SIC MULHER FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72937
+#EXTINF:-1,PT: SIC RADICAL
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72938
+#EXTINF:-1,PT: SIC RADICAL HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72939
+#EXTINF:-1,PT: SIC RADICAL HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72940
+#EXTINF:-1,PT: TV RECORD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72941
+#EXTINF:-1,PT: TV RECORD HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72942
+#EXTINF:-1,PT: GLOBO LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72943
+#EXTINF:-1,PT: TV GLOBO
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72944
+#EXTINF:-1,PT: TV GLOBO HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72945
+#EXTINF:-1,PT: GLOBO HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72946
+#EXTINF:-1,PT: WRC MOMENTS HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72947
+#EXTINF:-1,PT: A BOLA TV LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72948
+#EXTINF:-1,PT: A BOLA TV
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72949
+#EXTINF:-1,PT: A BOLA TV HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72950
+#EXTINF:-1,PT: A BOLA HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72951
+#EXTINF:-1,PT: CANAL 11 HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72952
+#EXTINF:-1,PT: SPORT TV + LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72953
+#EXTINF:-1,PT: SPORT TV +
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72954
+#EXTINF:-1,PT: SPORT TV +  HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72955
+#EXTINF:-1,PT: SPORT TV + HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72956
+#EXTINF:-1,PT: SPORTV + FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72957
+#EXTINF:-1,PT: SPORT TV 1 LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72958
+#EXTINF:-1,PT: SPORT TV 1 HD 1Mb
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72959
+#EXTINF:-1,PT: SPORT TV 1
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72960
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72961
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72962
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72963
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72964
+#EXTINF:-1,PT: SPORT TV 1 UHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72965
+#EXTINF:-1,PT: SPORT TV 2 LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72966
+#EXTINF:-1,PT: SPORT TV 2
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72967
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72968
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72969
+#EXTINF:-1,PT: SPORT TV 2 FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72970
+#EXTINF:-1,PT: SPORT TV 2 FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72971
+#EXTINF:-1,PT: SPORT TV 3 LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72972
+#EXTINF:-1,PT: SPORT TV 3
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72973
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72974
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72975
+#EXTINF:-1,PT: SPORT TV 3 FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72976
+#EXTINF:-1,PT: SPORT TV 4
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72977
+#EXTINF:-1,PT: SPORT TV 4 HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72978
+#EXTINF:-1,PT: SPORT TV 4 HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72979
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72980
+#EXTINF:-1,PT: SPORT TV 5
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72981
+#EXTINF:-1,PT: SPORT TV 5 HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72982
+#EXTINF:-1,PT: SPORT TV 5 HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72983
+#EXTINF:-1,PT: SPORT TV 5 FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72984
+#EXTINF:-1,PT: SPORT TV 6 LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72985
+#EXTINF:-1,PT: SPORT TV 6 HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72986
+#EXTINF:-1,PT: SPORT TV 6 HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72987
+#EXTINF:-1,PT: SPORT TV NBA
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72988
+#EXTINF:-1,PT: SPORT TV NBA HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72989
+#EXTINF:-1,PT: SPORT TV NBA HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72990
+#EXTINF:-1,PT: BTV LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72991
+#EXTINF:-1,PT: BTV 1
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72992
+#EXTINF:-1,PT: BTV HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72993
+#EXTINF:-1,PT: BTV HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72994
+#EXTINF:-1,PT: BTV HD 1Mb
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72995
+#EXTINF:-1,PT: BTV FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72996
+#EXTINF:-1,PT: BTV UHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72997
+#EXTINF:-1,PT: BTV FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72998
+#EXTINF:-1,PT: ELEVEN SPORTS 1 LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/72999
+#EXTINF:-1,PT: ELEVEN SPORTS 1
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73000
+#EXTINF:-1,PT: ELEVEN SPORTS 1 HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73001
+#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73002
+#EXTINF:-1,PT: ELEVEN SPORTS 1 HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73003
+#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73004
+#EXTINF:-1,PT: ELEVEN SPORTS 1 UHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73005
+#EXTINF:-1,PT: ELEVEN SPORTS 2 LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73006
+#EXTINF:-1,PT: ELEVEN SPORTS 2
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73007
+#EXTINF:-1,PT: ELEVEN SPORTS 2 HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73008
+#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73009
+#EXTINF:-1,PT: ELEVEN SPORTS 2 HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73010
+#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73011
+#EXTINF:-1,PT: ELEVEN SPORTS 3
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73012
+#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73013
+#EXTINF:-1,PT: ELEVEN SPORTS 4
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73014
+#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73015
+#EXTINF:-1,PT: ELEVEN SPORTS 5
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73016
+#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73017
+#EXTINF:-1,PT: ELEVEN SPORTS 6
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73018
+#EXTINF:-1,PT: ELEVEN SPORTS 6 HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73019
+#EXTINF:-1,PT: W SPORT SD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73020
+#EXTINF:-1,PT: W SPORT HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73021
+#EXTINF:-1,PT: W SPORT FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73022
+#EXTINF:-1,PT: PFC
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73023
+#EXTINF:-1,PT: SPORTING TV
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73024
+#EXTINF:-1,PT: SPORTING TV HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73025
+#EXTINF:-1,PT: EUROSPORT 1
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73026
+#EXTINF:-1,PT: EUROSPORT 1 HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73027
+#EXTINF:-1,PT: EUROSPORT 2
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73028
+#EXTINF:-1,PT: EUROSPORT 2 HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73029
+#EXTINF:-1,PT: MEO VIDEOCLUBE
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73030
+#EXTINF:-1,PT: MEO DESTAQUES
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73031
+#EXTINF:-1,PT: GAMETOON HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73032
+#EXTINF:-1,PT: DIZI CHANNEL
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73033
+#EXTINF:-1,PT: DISNEY +
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73034
+#EXTINF:-1,PT: DISNEY MARVEL
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73035
+#EXTINF:-1,PT: DISNEY PIXAR
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73036
+#EXTINF:-1,PT: DISNEY STAR WARS
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73037
+#EXTINF:-1,PT: LOLLY KIDS HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73038
+#EXTINF:-1,PT: TV CINE + HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73039
+#EXTINF:-1,PT: TV CINE TOP LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73040
+#EXTINF:-1,PT: TVCINE TOP
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73041
+#EXTINF:-1,PT: TVCINE TOP HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73042
+#EXTINF:-1,PT: TVCINE TOP HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73043
+#EXTINF:-1,PT: TVCINE TOP FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73044
+#EXTINF:-1,PT: TV CINE EDITION LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73045
+#EXTINF:-1,PT: TVCINE EDTION
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73046
+#EXTINF:-1,PT: TVCINE EDITION HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73047
+#EXTINF:-1,PT: TVCINE EDITION HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73048
+#EXTINF:-1,PT: TVCINE EDITION FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73049
+#EXTINF:-1,PT: TV CINE EMOTION LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73050
+#EXTINF:-1,PT: TVCINE EMOTION
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73051
+#EXTINF:-1,PT: TVCINE EMOTION HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73052
+#EXTINF:-1,PT: TVCINE EMOTION HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73053
+#EXTINF:-1,PT: TVCINE ACTION LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73054
+#EXTINF:-1,PT: TVCINE ACTION
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73055
+#EXTINF:-1,PT: TVCINE ACTION HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73056
+#EXTINF:-1,PT: TVCINE ACTION HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73057
+#EXTINF:-1,PT: TVCINE ACTION FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73058
+#EXTINF:-1,PT: NOS STUDIOS LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73059
+#EXTINF:-1,PT: NOS STUDIOS
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73060
+#EXTINF:-1,PT: NOS STUDIOS HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73061
+#EXTINF:-1,PT: NOS STUDIOS
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73062
+#EXTINF:-1,PT: CANAL NOS HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73063
+#EXTINF:-1,PT: CINEMUNDO LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73064
+#EXTINF:-1,PT: CINEMUNDO
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73065
+#EXTINF:-1,PT: CINEMUNDO HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73066
+#EXTINF:-1,PT: CINEMUNDO
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73067
+#EXTINF:-1,PT: HOLLYWOOD LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73068
+#EXTINF:-1,PT: HOLLYWOOD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73069
+#EXTINF:-1,PT: HOLLYWOOD HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73070
+#EXTINF:-1,PT: HOLLYWOOD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73071
+#EXTINF:-1,PT: AMC
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73072
+#EXTINF:-1,PT: AMC HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73073
+#EXTINF:-1,PT: AMC HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73074
+#EXTINF:-1,PT: AMC CRIME
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73075
+#EXTINF:-1,PT: AMC BREAK
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73076
+#EXTINF:-1,PT: AXN LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73077
+#EXTINF:-1,PT: AXN
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73078
+#EXTINF:-1,PT: AXN HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73079
+#EXTINF:-1,PT: AXN HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73080
+#EXTINF:-1,PT: AXN FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73081
+#EXTINF:-1,PT: AXN WHITE LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73082
+#EXTINF:-1,PT: AXN WHITE
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73083
+#EXTINF:-1,PT: AXN WHITE HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73084
+#EXTINF:-1,PT: AXN WHITE HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73085
+#EXTINF:-1,PT: AXN MOVIES LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73086
+#EXTINF:-1,PT: AXN MOVIES HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73087
+#EXTINF:-1,PT: AXN MOVIES HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73088
+#EXTINF:-1,PT: STAR LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73089
+#EXTINF:-1,PT: STAR
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73090
+#EXTINF:-1,PT: STAR HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73091
+#EXTINF:-1,PT: STAR HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73092
+#EXTINF:-1,PT: STAR FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73093
+#EXTINF:-1,PT: STAR CRIME LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73094
+#EXTINF:-1,PT: STAR CRIME HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73096
+#EXTINF:-1,PT: STAR CRIME HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73097
+#EXTINF:-1,PT: STAR COMEDY
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73098
+#EXTINF:-1,PT: STAR COMEDY HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73099
+#EXTINF:-1,PT: STAR COMEDY HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73100
+#EXTINF:-1,PT: STAR LIFE
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73101
+#EXTINF:-1,PT: STAR LIFE HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73102
+#EXTINF:-1,PT: STAR MOVIES LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73103
+#EXTINF:-1,PT: STAR MOVIES
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73104
+#EXTINF:-1,PT: STAR MOVIES HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73105
+#EXTINF:-1,PT: STAR MOVIES HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73106
+#EXTINF:-1,PT: MARVEL PLUS SERIES
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73107
+#EXTINF:-1,PT: SYFY
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73108
+#EXTINF:-1,PT: SYFY HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73109
+#EXTINF:-1,PT: DISNEY CHANNEL
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73110
+#EXTINF:-1,PT: DISNEY JUNIOR
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73111
+#EXTINF:-1,PT: PANDA BIGGS
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73112
+#EXTINF:-1,PT: PANDA KIDS
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73113
+#EXTINF:-1,PT: CANAL PANDA LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73114
+#EXTINF:-1,PT: CANAL PANDA
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73115
+#EXTINF:-1,PT: SIC KIDS
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73116
+#EXTINF:-1,PT: SIC KIDS HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73117
+#EXTINF:-1,PT: SIC KIDS HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73118
+#EXTINF:-1,PT: CARTOON  NETWORK
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73119
+#EXTINF:-1,PT: NICKELODEON
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73120
+#EXTINF:-1,PT: NICK JUNIOR
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73121
+#EXTINF:-1,PT: BABY TV
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73122
+#EXTINF:-1,PT: BOOMERANG
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73123
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC WILD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73124
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC WILD HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73125
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73126
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73127
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73128
+#EXTINF:-1,PT: DISCOVERY CHANNEL
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73129
+#EXTINF:-1,PT: DISCOVERY CHANNEL HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73130
+#EXTINF:-1,PT: ID INVESTIGATION DISCOVERY HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73131
+#EXTINF:-1,PT: CRIME INVESTIGAÇÃO
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73132
+#EXTINF:-1,PT: TRAVEL CHANNEL HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73133
+#EXTINF:-1,PT: ODISSEIA
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73134
+#EXTINF:-1,PT: ODISSEIA HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73135
+#EXTINF:-1,PT: HISTORIA
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73136
+#EXTINF:-1,PT: HISTORIA HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73137
+#EXTINF:-1,PT: KURIAKOS TV
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73138
+#EXTINF:-1,PT: TLC FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73139
+#EXTINF:-1,PT: CASA COZINHA HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73140
+#EXTINF:-1,PT: CASA COZINHA
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73141
+#EXTINF:-1,PT: 24 KITCHEN
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73142
+#EXTINF:-1,PT: 24 KITCHEN HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73143
+#EXTINF:-1,PT: FOOD NETWORK
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73144
+#EXTINF:-1,PT: E! ENTERTAINMENT
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73145
+#EXTINF:-1,PT: E! ENTERTAINMENT HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73146
+#EXTINF:-1,PT: FASHION TV
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73147
+#EXTINF:-1,PT: FUEL HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73148
+#EXTINF:-1,PT: FUEL TV HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73149
+#EXTINF:-1,PT: RED BULL
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73150
+#EXTINF:-1,PT: CAÇA & PESCA
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73151
+#EXTINF:-1,PT: CACA & PESCA HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73152
+#EXTINF:-1,PT: CAZAVISION
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73153
+#EXTINF:-1,PT: CAMPO PEQUENO TV HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73154
+#EXTINF:-1,PT: TOROS TV HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73155
+#EXTINF:-1,PT: MOTORVISION TV
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73156
+#EXTINF:-1,PT: MOTORVISION HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73157
+#EXTINF:-1,PT: Fight Network HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73158
+#EXTINF:-1,PT: FIHGDTHEBOX
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73159
+#EXTINF:-1,PT: LOCAL VISÃO HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73160
+#EXTINF:-1,PT: ALMA LUSA
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73161
+#EXTINF:-1,PT: MCM POP
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73162
+#EXTINF:-1,PT: VH1
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73163
+#EXTINF:-1,PT: MTV LIVE
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73164
+#EXTINF:-1,PT: MTV PORTUGAL
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73165
+#EXTINF:-1,PT: MTV PORTUGAL HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73166
+#EXTINF:-1,PT: MTV 90s
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73167
+#EXTINF:-1,PT: MTV HITS HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73168
+#EXTINF:-1,PT: MTV ClASSIC
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73169
+#EXTINF:-1,PT: MTV PORTUGAL
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73170
+#EXTINF:-1,PT: STINGRAY ICONCERTS HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73171
+#EXTINF:-1,PT: TRACE TOCA
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73172
+#EXTINF:-1,PT: TRACE URBAN
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73173
+#EXTINF:-1,PT: AFRO MUSIC
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73174
+#EXTINF:-1,PT: MEZZO LIVE
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73175
+#EXTINF:-1,PT: EURONEWS
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73176
+#EXTINF:-1,PT: EURONEWS HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73177
+#EXTINF:-1,PT: EURONEWS FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73178
+#EXTINF:-1,PT: EURONEWS HEVC
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73179
+#EXTINF:-1,PT: TPA INTERNACIONAL
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73180
+#EXTINF:-1,PT: CBS REALITY
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73181
+#EXTINF:-1,PT: CANAL 180
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73182
+#EXTINF:-1,PT: TV Galicia HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73183
+#EXTINF:-1,PT: TVC NEWS
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73184
+#EXTINF:-1,PT: AR TV
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73185
+#EXTINF:-1,PT: CGTN
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73186
+#EXTINF:-1,PT: GINX
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73187
+#EXTINF:-1,PT: CANÇÃO NOVA
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73188
+#EXTINF:-1,PT: TCV CABO
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73189
+#EXTINF:-1,PT: CANAL DE FÁTIMA
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73190
+#EXTINF:-1,PT: RTP INTERNACIONAL
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73191
+#EXTINF:-1,PT: RTP 1
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73192
+#EXTINF:-1,PT: GLOBO NOW HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73193
+#EXTINF:-1,PT: SAUDE + HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73194
+#EXTINF:-1,PT: E! ENTERTAINMENT HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73195
+#EXTINF:-1,PT: FUEL TV HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73196
+#EXTINF:-1,PT: MTV PORTUGAL HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73197
+#EXTINF:-1,PT: PORTO CANAL HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73198
+#EXTINF:-1,PT: TVI FICÇÃO LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73199
+#EXTINF:-1,PT: CANAL 11 LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73200
+#EXTINF:-1,PT: NICK +
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73201
+#EXTINF:-1,PT: ID INVESTIGATION DISCOVERY
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73202
+#EXTINF:-1,PT:ID INVESTIGATION DISCOVERY
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73203
+#EXTINF:-1,PT: TVI Reality FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73204
+#EXTINF:-1,PT: ZAP VIVA HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73205
+#EXTINF:-1,PT: CANAL 11 HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73206
+#EXTINF:-1,PT: TVI Reality HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73207
+#EXTINF:-1,PT: RTP 3 FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73208
+#EXTINF:-1,PT: National geographic FHD.
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73209
+#EXTINF:-1,PT: UNIFÉ
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73210
+#EXTINF:-1,PT: TRAVEL XP
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73211
+#EXTINF:-1,PT: REAL MADRID
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73215
+#EXTINF:-1,PT: FIGHT SPORTS FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73216
+#EXTINF:-1,PT: STINGRAY JAZZ HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73219
+#EXTINF:-1,PT: STINGRAY RÉTRO HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73220
+#EXTINF:-1,PT: TRACE CARRIBEAN HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73221
+#EXTINF:-1,PT: TRACE LATINA HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73222
+#EXTINF:-1,PT: ClUBBING TV FHD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73223
+#EXTINF:-1,PT: MUNDO TOURO TV
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73224
+#EXTINF:-1,PT:BTV  EXPERIENCE HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73225
+#EXTINF:-1,PT: TLC SD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73226
+#EXTINF:-1,PT:WWE NETWORK HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73227
+#EXTINF:-1,PT: TVC INTERNACIONAL
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73228
+#EXTINF:-1,ELEVEN SPORTS 6 LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73230
+#EXTINF:-1,ELEVEN SPORTS 5 LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73231
+#EXTINF:-1,ELEVEN SPORTS 4 LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73232
+#EXTINF:-1,ELEVEN SPORTS 3 LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73238
+#EXTINF:-1,PT: STAR LIFE LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73258
+#EXTINF:-1,PT:V+ TV
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73276
+#EXTINF:-1,PT:V+TV HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73277
+#EXTINF:-1,PT:V+TV HEVC
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73278
+#EXTINF:-1,PT:V+TV LOW
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73279
+#EXTINF:-1,PT: HGTV HD
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/73280
+#EXTINF:-1,PT: PORTO CANAL
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57492
+#EXTINF:-1,PT: MCM POP
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57494
+#EXTINF:-1,PT: AFRO MUSIC CHANNEL
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57495
+#EXTINF:-1,PT: AXN
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57496
+#EXTINF:-1,PT: BABY TV
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57497
+#EXTINF:-1,PT: BLOOMBERG
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57498
+#EXTINF:-1,PT: ODISSEIA
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57499
+#EXTINF:-1,PT: FASHION TV
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57500
+#EXTINF:-1,PT: MEZZO
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57501
+#EXTINF:-1,PT: MTV PORTUGAL
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57502
+#EXTINF:-1,PT: NICKELODEON
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57503
+#EXTINF:-1,PT: RTP AFRICA
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57504
+#EXTINF:-1,PT: TLC
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57505
+#EXTINF:-1,PT: TRACE URBAN
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57506
+#EXTINF:-1,PT: AXN WHITE
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57507
+#EXTINF:-1,PT: BIGGS
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57508
+#EXTINF:-1,PT: AMC BREAK
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57509
+#EXTINF:-1,PT: CANÇAO NOVA
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57510
+#EXTINF:-1,PT: FOOD NETWORK
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57511
+#EXTINF:-1,PT: FOX
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57512
+#EXTINF:-1,PT: NICK JR.
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57513
+#EXTINF:-1,PT: SPORT TV 2
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57514
+#EXTINF:-1,PT: SPORT TV 3
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57515
+#EXTINF:-1,PT: SYFY
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57516
+#EXTINF:-1,PT: TVCINE TOP
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57517
+#EXTINF:-1,PT: TVCINE EDITION
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57518
+#EXTINF:-1,PT: TVCINE EMOTION
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57519
+#EXTINF:-1,PT: TVCINE ACTION
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57520
+#EXTINF:-1,PT: REDBULL TV 1080
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57521
+#EXTINF:-1,PT: KURIAKOS CINE
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57522
+#EXTINF:-1,PT: SPORT TV NBA
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57523
+#EXTINF:-1,PT: REDBULL TV
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57524
+#EXTINF:-1,PT: NOS STUDIO
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57525
+#EXTINF:-1,PT: CANAL 11
+http://salatadeicre.store:8080/mariana_cristina_paca/6wzwVElabMyLjXvIyDJje39xao7WRv/57526
